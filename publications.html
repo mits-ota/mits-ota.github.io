@@ -1,0 +1,482 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Publications</title>
+
+<script src="site_libs/header-attrs-2.29/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Mits Ota's webpage</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="research.html">Research</a>
+</li>
+<li>
+  <a href="publications.html">Publications</a>
+</li>
+<li>
+  <a href="teaching.html">Teaching</a>
+</li>
+<li>
+  <a href="bio.html">Bio</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">Publications</h1>
+
+</div>
+
+
+<div id="recent-publications" class="section level2">
+<h2>Recent publications</h2>
+<p>Holtz, A., Smith, K., &amp; Ota, M. (in press). The impact of similar
+place avoidance on novel word learning in adults. Proceedings of the
+Annual Meeting of the Cognitive Science Society, 47.</p>
+<p>Ota, M., &amp; Ueda, I. (in press). Japanese speech development. In
+Sharynne McLeod (Ed.), The Oxford handbook of speech development in
+languages of the world. Oxford University Press.</p>
+<p>Ota, M. (in press).
+<a href="https://doi.org/10.1177/00238309241297703">Child consonant
+harmony revisited: The role of lexical memory constraints and segment
+repetition.</a> <i>Language and Speech</i></p>
+<p>Soderstrom, M., Rocha-Hidalgo, J., Muñoz, L. E., Bochynska, A.,
+Werker, J. F., Skarabela, B., … Ota, M., … Tsui, A. S. M. (in press).
+<a href="https://doi.org/10.1017/S0305000924000254">Testing the
+relationship between preferences for infant-directed speech and
+vocabulary development: A multi-lab study.</a> <i>Journal of Child
+Language</i>.</p>
+<p>Wolters, L., Ota, M., &amp; Arnon, I. (2025).
+<a href="https://doi.org/10.1016/j.cognition.2025.106221"> Skewed
+distributions facilitate infants’ word segmentation.</a> <i>Cognition,
+263</i>, 106221.</p>
+<p>Kempe, V., Ota, M., &amp; Schaeffler, S. (2024).
+<a href="https://doi.org/10.1016/j.dr.2024.101121">Does child-directed
+speech facilitate language development in all domains? A study space
+analysis of the existing evidence.</a> <i>Developmental Review, 72</i>,
+101121.</p>
+<p>Basnak, J., &amp; Ota, M. (2024).
+<a href="https://doi.org/10.1177/00238309231223909">Learnability
+advantage of segmental repetitions in word learning.</a> <i>Language and
+Speech, 67</i>, 1093–1120.</p>
+<p>Vihman, M., Ota, M., Keren-Portnoy, T., Choo, R. Q., &amp; Lou, S.
+(2023). <a href="https://doi.org/10.1080/15475441.2022.2149401">A
+challenge to Whole-word Phonology? A study of Japanese and
+Mandarin.</a>. <i>Language Learning and Development, 19</i>,
+480-500.</p>
+<p>Vihman, M., Ota, M., Keren-Portnoy, T., Lou, S., &amp; Choo, R. Q.
+(2023). <a href="https://doi.org/10.1017/S0305000922000393">Child
+phonological responses to variegation in adult words: A cross-linguistic
+study</a>. <i>Journal of Child Language, 50</i>, 1459-1486.</p>
+<p>Liu, J., &amp; Ota, M. (2023).
+<a href="https://www.researchgate.net/profile/Jiayi-Lu-17/publication/374228831_The_effect_of_learning_context_on_Mandarin_listeners'_perception_of_English_vowels/links/651463a14aa1fe04700ac917/The-effect-of-learning-context-on-Mandarin-listeners-perception-of-English-vowels.pdf">The
+effect of learning context on Mandarin listeners’ perception of English
+vowels.</a> In R. Skarnitzl &amp; J. Volím (Eds.), <i>Proceedings of the
+20th International Congress of Phonetic Sciences</i>, 2572-2575. Prague:
+Guarant Intenational.</p>
+<p>Arunachalam, S., Deen, K. U., Huang, Y. T., Lidz, J., Miller, K.,
+Ota, M., &amp; Szendroi, K. (2022).
+<a href="https://doi.org/10.1177/01427237221096083">Some concrete steps
+for journal editorial boards: A commentary on Kidd and Garcia
+(2022).</a> <i>First Language, 42</i>, 736–739.</p>
+<p>Skarabela, B., Ota, M., O’Connor, R., &amp; Arnon, I. (2021).
+<a href="https://doi.org/10.1016/j.cognition.2021.104612">‘Clap your
+hands’ or ‘take your hands’? One-year-olds distinguish between frequent
+and infrequent multiword phrases</a>. <i>Cognition, 211</i>, 104612.</p>
+<p>Ota, M., San José, A., &amp; Smith, K. (2021).
+<a href="https://doi.org/10.1016/j.cognition.2021.104585">The emergence
+of word-internal repetition through iterated learning: Explaining the
+mismatch between learning biases and language design.</a> <i>Cognition,
+210</i>, 104585.</p>
+<p>Fikkert, P., Liu, L., &amp; Ota, M. (2020).
+<a href="https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780198832232.001.0001/oxfordhb-9780198832232-e-37">The
+acquisition of word prosody</a>. In C. Gussenhoven &amp; A. Chen (Eds.),
+<i>The Oxford handbook of language prosody</i> (pp. 541-555). Oxford:
+Oxford University Press.</p>
+<p>Stewart, M. E., Grube, M., &amp; Ota, M. (2020).
+<a href="https://doi.org/10.1007/978-1-4614-6435-8_102423-1">Autistic
+traits and auditory discrimination skills</a>. In F. Volkmar (Ed.),
+<i>Encyclopedia of autism spectrum disorders.</i> 2nd Ed. New York:
+Springer.</p>
+<p>ManyBabies Consortium. (2020).
+<a href="https://journals.sagepub.com/doi/pdf/10.1177/2515245919900809">Quantifying
+sources of variability in infancy research using the
+infant-directed-speech preference.</a> <i>Advances in Methods and
+Practices in Psychological Science, 3</i>, 24-52.</p>
+</div>
+<div id="selected-publications-before-2020" class="section level2">
+<h2>Selected publications (before 2020)</h2>
+<p>Ota, M., Davies-Jenkins, N., &amp; Skarabela, B. (2018).
+<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.12628">Why
+<i>choo-choo</i> is better than <i>train</i>: The role of
+register-specific words in early vocabulary development.</a>
+<i>Cognitive Science, 42</i>, 1974-1999.</p>
+<p>Ota, M., Yamane, N. &amp; Mazuka, R. (2018).
+<a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2017.02354/full">The
+effects of lexical pitch accent on infant word recognition in
+Japanese.</a> <i>Frontiers in Psychology, 8</i>, 2354.</p>
+<p>Ota, M., &amp; Skarabela, B. (2018).
+<a href="https://www.cambridge.org/core/journals/journal-of-child-language/article/div-classtitlereduplication-facilitates-early-word-segmentationa-hreffns01-ref-typefnadiv/2A63240D50D726E0AECF2D2B60077C62">Reduplication
+facilitates early word segmentation.</a> <i>Journal of Child Language,
+45</i>, 204-218.</p>
+<p>Stewart, M. E., Petrou, A. M., &amp; Ota, M. (2018).
+<a href="https://link.springer.com/article/10.1007/s10803-017-3284-0">Categorial
+speech perception in adults with autism spectrum conditions.</a>
+<i>Journal of Autism and Developmental Disorders, 48</i>, 72-82.</p>
+<p>Ota, M., &amp; Skarabela, B (2016).
+<a href="http://www.tandfonline.com/doi/full/10.1080/15475441.2016.1165100">Reduplicated
+words are easier to learn.</a> <i>Language Learning and Development,
+12</i>, 380-397.</p>
+<p>Ota, M., Stewart, M. E., Petrou, A., &amp; Dickie, C. (2015).
+<a href="http://jslhr.pubs.asha.org/article.aspx?articleid=2108386">Lexical
+effects on children’s speech processing: Individual differences
+reflected in the Autism-Spectrum Quotient (AQ)</a>. <i>Journal of
+Speech, Language, and Hearing Research, 58</i>, 422-433.</p>
+<p>Nakai, S., Lindsay, S., &amp; Ota, M. (2015).
+<a href="http://slr.sagepub.com/content/31/1/29">A prerequisite to L1
+homophone effects in L2 spoken-word recognition</a>. <i>Second Language
+Research, 31</i>, 29-52.</p>
+<p>Ota, M., &amp; Green, S. J. (2013).
+<a href="http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=8905220&fileId=S0305000912000074">Input
+frequency and lexical variability in phonological development: A
+survival analysis of word-initial cluster production</a>. <i>Journal of
+Child Language, 40</i>, 539-566.</p>
+<p>Dickie, C., Ota, M., &amp; Clark, A. (2013).
+<a href ="http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=8939907&fileId=S0142716411000907">Revisiting
+the phonological deficit in dyslexia: Are implicit non-orthographic
+representations impaired?</a> <i>Applied Psycholinguistics, 34</i>,
+649-672.</p>
+<p>Stewart, M. E., McAdam, C., Ota, M., Peppé, S., &amp; Cleland, J.
+(2013). <a href="http://aut.sagepub.com/content/17/1/6.short">Emotional
+recognition in Autism Spectrum Conditions from voices and faces</a>.
+<i>Autism, 17</i>, 6-14.</p>
+<p>Ota, M., Hartsuiker, R. J., &amp; Haywood, S. L. (2010).
+<a href="http://las.sagepub.com/content/53/3/383.short">Is a FAN always
+FUN? Phonological and orthographic effects in bilingual visual word
+recognition</a>. <i>Language and Speech, 53</i>, 383-403.</p>
+<p>Ota, M., Hartsuiker, R. J., &amp; Haywood, S. L. (2009).
+<a href="http://www.sciencedirect.com/science/article/pii/S0010027708003053">The
+KEY to the ROCK: Near-homophony in nonnative visual word
+recognition</a>. <i>Cognition, 111</i>, 263-269.</p>
+<p>Stewart, M. E. &amp; Ota, M. (2008).
+<a href="http://www.sciencedirect.com/science/article/pii/S0010027708001716">Lexical
+effects on speech perception in individuals with "autistic" traits</a>.
+<i>Cognition, 109</i>, 157-162.</p>
+<p>Ota, M. (2006).
+<a href="http://www.karger.com/Article/Abstract/97307">Children’s
+production of word accents in Swedish revisited</a>. <i>Phonetica,
+63</i>, 230-246.</p>
+<p>Ota, M. (2006).
+<a href="http://las.sagepub.com/content/49/2/261.short">Input frequency
+and word truncation in child Japanese: Structural and lexical
+effects</a>. <i>Language and Speech, 49</i>, 261-295.</p>
+<p>Ota, M. (2004). <a href="https://doi.org/10.1515/jjl-2004-0104">The
+learnability of a stratified lexicon.</a> <i>Journal of Japanese
+Linguistics, 20,</i> 19-40.</p>
+<p>Ota, M. (2003).
+<a href="https://muse.jhu.edu/article/174223/summary">The development of
+lexical pitch accent systems: An autosegmental analysis.</a> <i>Canadian
+Journal of Linguistics, 48</i>, 357-383.</p>
+<p>Ota, M. (2003).
+<i><a href="https://www.degruyter.com/document/doi/10.1075/lald.34/html">The
+development of prosodic structure in early words: Continuity, divergence
+and change</a></i>. Amsterdam: John Benjamins.</p>
+<p>Ota, M. (2001).
+<a  href="https://doi.org/10.1075/arla.1.03ota">Phonological theory and
+the development of prosodic structure: Evidence from child Japanese.</a>
+<i>Annual Review of Language Acquisition, 1</i>, 65-118.</p>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
