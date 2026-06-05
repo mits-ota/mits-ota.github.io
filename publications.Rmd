@@ -1,0 +1,81 @@
+---
+title: "Publications"
+---
+
+## Recent publications
+
+Ota, M., & Ueda, I. (in press). Japanese speech development. In Sharynne McLeod (Ed.), The Oxford handbook of speech development in languages of the world. Oxford University Press. 
+
+Goto, N., Ota, M., & Ishihara, S. (2026). <a href="https://doi.org/10.21437/SpeechProsody.2026-59">L1 Swedish transfer of stress and F0 peak alignment in L2 Japanese prosody</a>. <i>Proceedings of Speech Prosody 2026</i>, 294-298.
+
+Ota, M. (2026). <a href="https://doi.org/10.1177/00238309241297703">Child consonant harmony revisited: The role of lexical memory constraints and segment repetition.</a> <i>Language and Speech, 69</i>, 155-182.
+
+Holtz, A., Smith, K., & Ota, M. (2025). <a href="https://escholarship.org/uc/item/9zp1668q">The impact of similar place avoidance on novel word learning in adults</a>. <i>Proceedings of the Annual Meeting of the Cognitive Science Society, 47</i>.
+
+Soderstrom, M., Rocha-Hidalgo, J., Muñoz, L. E., Bochynska, A., Werker, J. F., Skarabela, B., … Ota, M., … Tsui, A. S. M. (2025). <a href="https://doi.org/10.1017/S0305000924000254">Testing the relationship between preferences for infant-directed speech and vocabulary development: A multi-lab study.</a> <i>Journal of Child Language, 52</i>, 984-1009.		
+
+Wolters, L., Ota, M., & Arnon, I. (2025). <a href="https://doi.org/10.1016/j.cognition.2025.106221"> Skewed distributions facilitate infants' word segmentation.</a> <i>Cognition, 263</i>, 106221.
+
+Kempe, V.,  Ota, M., & Schaeffler, S. (2024). <a href="https://doi.org/10.1016/j.dr.2024.101121">Does child-directed speech facilitate language development in all domains? A study space analysis of the existing evidence.</a> <i>Developmental Review, 72</i>, 101121.
+
+Basnak, J., &  Ota, M. (2024). <a href="https://doi.org/10.1177/00238309231223909">Learnability advantage of segmental repetitions in word learning.</a> <i>Language and Speech, 67</i>, 1093–1120.							
+
+Vihman, M., Ota, M., Keren-Portnoy, T., Choo, R. Q., & Lou, S. (2023). <a href="https://doi.org/10.1080/15475441.2022.2149401">A challenge to Whole-word Phonology? A study of Japanese and Mandarin.</a>. <i>Language Learning and Development, 19</i>, 480-500.
+
+Vihman, M., Ota, M., Keren-Portnoy, T., Lou, S., & Choo, R. Q. (2023). <a href="https://doi.org/10.1017/S0305000922000393">Child phonological responses to variegation in adult words: A cross-linguistic study</a>. <i>Journal of Child Language, 50</i>, 1459-1486.
+
+Liu, J., & Ota, M. (2023). <a href="https://www.researchgate.net/profile/Jiayi-Lu-17/publication/374228831_The_effect_of_learning_context_on_Mandarin_listeners'_perception_of_English_vowels/links/651463a14aa1fe04700ac917/The-effect-of-learning-context-on-Mandarin-listeners-perception-of-English-vowels.pdf">The effect of learning context on Mandarin listeners' perception of English vowels.</a> In R. Skarnitzl & J. Volím (Eds.), <i>Proceedings of the 20th International Congress of Phonetic Sciences</i>, 2572-2575. Prague: Guarant Intenational.
+
+Arunachalam, S., Deen, K. U., Huang, Y. T., Lidz, J., Miller, K., Ota, M., & Szendroi, K. (2022). <a href="https://doi.org/10.1177/01427237221096083">Some concrete steps for journal editorial boards: A commentary on Kidd and Garcia (2022).</a> <i>First Language, 42</i>, 736–739. 
+
+Skarabela, B., Ota, M., O'Connor, R., & Arnon, I. (2021). <a href="https://doi.org/10.1016/j.cognition.2021.104612">'Clap your hands' or 'take your hands'? One-year-olds distinguish between frequent and infrequent multiword phrases</a>. <i>Cognition, 211</i>, 104612.
+
+Ota, M., San José, A., & Smith, K. (2021). <a href="https://doi.org/10.1016/j.cognition.2021.104585">The emergence of word-internal repetition through iterated learning: Explaining the mismatch between learning biases and language design.</a> <i>Cognition, 210</i>, 104585.
+
+Fikkert, P., Liu, L., & Ota, M. (2020). <a href="https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780198832232.001.0001/oxfordhb-9780198832232-e-37">The acquisition of word prosody</a>. In C. Gussenhoven & A. Chen (Eds.), <i>The Oxford handbook of language prosody</i> (pp. 541-555). Oxford: Oxford University Press.
+
+Stewart, M. E., Grube, M., & Ota, M. (2020). <a href="https://doi.org/10.1007/978-1-4614-6435-8_102423-1">Autistic traits and auditory discrimination skills</a>. In F. Volkmar (Ed.), <i>Encyclopedia of autism spectrum disorders.</i> 2nd Ed. New York: Springer.
+
+ManyBabies Consortium. (2020). <a href="https://journals.sagepub.com/doi/pdf/10.1177/2515245919900809">Quantifying sources of variability in infancy research using the infant-directed-speech preference.</a> <i>Advances in Methods and Practices in Psychological Science, 3</i>, 24-52.
+		
+## Selected publications (before 2020)
+
+Ota, M., Davies-Jenkins, N., & Skarabela, B. (2018). <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.12628">Why <i>choo-choo</i> is better than <i>train</i>: The role of register-specific words in early vocabulary development.</a> <i>Cognitive Science, 42</i>, 1974-1999.
+
+Ota, M., Yamane, N. & Mazuka, R. (2018). <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2017.02354/full">The effects of lexical pitch accent on infant word recognition in Japanese.</a> <i>Frontiers in Psychology, 8</i>, 2354.
+
+
+Ota, M., & Skarabela, B. (2018). <a href="https://www.cambridge.org/core/journals/journal-of-child-language/article/div-classtitlereduplication-facilitates-early-word-segmentationa-hreffns01-ref-typefnadiv/2A63240D50D726E0AECF2D2B60077C62">Reduplication facilitates early word segmentation.</a> <i>Journal of Child Language, 45</i>, 204-218.
+
+Stewart, M. E., Petrou, A. M., & Ota, M. (2018). <a href="https://link.springer.com/article/10.1007/s10803-017-3284-0">Categorial speech perception in adults with autism spectrum conditions.</a> <i>Journal of Autism and Developmental Disorders, 48</i>, 72-82.
+
+Ota, M., & Skarabela, B (2016). <a href="http://www.tandfonline.com/doi/full/10.1080/15475441.2016.1165100">Reduplicated words are easier to learn.</a> <i>Language Learning and Development, 12</i>, 380-397. 
+
+Ota, M., Stewart, M. E., Petrou, A., & Dickie, C. (2015). <a href="http://jslhr.pubs.asha.org/article.aspx?articleid=2108386">Lexical effects on children's speech processing: Individual differences reflected in the Autism-Spectrum Quotient (AQ)</a>. <i>Journal of Speech, Language, and Hearing Research, 58</i>, 422-433. 
+
+Nakai, S., Lindsay, S., & Ota, M. (2015). <a href="http://slr.sagepub.com/content/31/1/29">A prerequisite to L1 homophone effects in L2 spoken-word recognition</a>. <i>Second Language Research, 31</i>, 29-52.
+
+Ota, M., &amp; Green, S. J. (2013). <a href="http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=8905220&fileId=S0305000912000074">Input frequency and lexical variability in phonological development: A survival analysis of word-initial cluster production</a>. <i>Journal of Child Language, 40</i>, 539-566.
+
+Dickie, C., Ota, M., &amp; Clark, A. (2013). <a href ="http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=8939907&fileId=S0142716411000907">Revisiting the phonological deficit in dyslexia: Are implicit non-orthographic representations impaired?</a> <i>Applied Psycholinguistics, 34</i>, 649-672. 
+
+Stewart, M. E., McAdam, C., Ota, M., Peppé, S., &amp; Cleland, J. (2013). <a href="http://aut.sagepub.com/content/17/1/6.short">Emotional recognition in Autism Spectrum Conditions from voices and faces</a>. <i>Autism, 17</i>, 6-14. 
+
+Ota, M., Hartsuiker, R. J., &amp; Haywood, S. L. (2010). <a href="http://las.sagepub.com/content/53/3/383.short">Is a FAN always FUN? Phonological and orthographic effects in bilingual visual word recognition</a>. <i>Language and Speech, 53</i>, 383-403.
+
+Ota, M., Hartsuiker, R. J., &amp; Haywood, S. L. (2009). <a href="http://www.sciencedirect.com/science/article/pii/S0010027708003053">The KEY to the ROCK: Near-homophony in nonnative visual word recognition</a>. <i>Cognition, 111</i>, 263-269.
+
+Stewart, M. E. &amp; Ota, M. (2008). <a href="http://www.sciencedirect.com/science/article/pii/S0010027708001716">Lexical effects on speech perception in individuals with &quot;autistic&quot; traits</a>. <i>Cognition, 109</i>, 157-162.
+
+Ota, M. (2006). <a href="http://www.karger.com/Article/Abstract/97307">Children's production of word accents in Swedish revisited</a>. <i>Phonetica, 63</i>, 230-246.
+
+Ota, M. (2006). <a href="http://las.sagepub.com/content/49/2/261.short">Input frequency and word truncation in child Japanese: Structural and lexical effects</a>. <i>Language and Speech, 49</i>, 261-295.
+
+Ota, M. (2004). <a href="https://doi.org/10.1515/jjl-2004-0104">The learnability of a stratified lexicon.</a> <i>Journal of Japanese Linguistics, 20,</i> 19-40.
+
+Ota, M. (2003). <a href="https://muse.jhu.edu/article/174223/summary">The development of lexical pitch accent systems: An autosegmental analysis.</a> <i>Canadian Journal of Linguistics, 48</i>, 357-383.
+
+Ota, M. (2003). <i><a href="https://www.degruyter.com/document/doi/10.1075/lald.34/html">The development of prosodic structure in early words: Continuity, divergence and change</a></i>. Amsterdam: John Benjamins.
+							
+Ota, M. (2001). <a  href="https://doi.org/10.1075/arla.1.03ota">Phonological theory and the development of prosodic structure: Evidence from child Japanese.</a> <i>Annual Review of Language Acquisition, 1</i>, 65-118.
+					
