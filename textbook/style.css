@@ -1,0 +1,21 @@
+p.caption {
+  color: #777;
+  margin-top: 10px;
+}
+p code {
+  white-space: inherit;
+}
+pre {
+  word-break: normal;
+  word-wrap: normal;
+}
+pre code {
+  white-space: inherit;
+}
+
+.boxBorder {
+     border: 2px solid #990066;
+     padding: 10px;
+     outline: #990066 solid 5px;
+     outline-offset: 5px;
+   }
