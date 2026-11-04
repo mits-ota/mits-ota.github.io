@@ -1,0 +1,51 @@
+---
+title: "Research"
+---
+
+## Main interests
+
+My research is primarily on the development and processing of phonology and the lexicon in children and adults. Within those areas, I am particularly interested in:
+
+- the development of prosodic phonology.
+- the relationship between phonological and lexical development.
+- the role of linguistic input in children's language development.
+- the processing of second-language phonological and lexical information by adult speakers.
+- individual differences in phonological and lexical processing.
+- the relationship between language learning and general phonological properties of languages.
+
+## Funded Projects
+
+### Phonotactic learning across the lifespan (Leverhulme Trust)
+As children, we learn which sound patterns are possible or plausible in our native language, a type of knowledge known as **phonotactics**. But what happens to this ability as we mature? In this project, we investigate how children, young adults, and older adults mentally organise and learn new sound patterns. By investigating the way phonotactics is learned across the lifespan, the study aims to advance our understanding of how humans acquire linguistic knowledge and undergo cognitive changes throughout life. Joint work with [Jeremy Steffman](https://jsteffman.github.io/).
+
+### Language learning, communication and the emergence of phonotactic constraints (ESRC)
+Phonotactic patterns, or the regularities on where sounds do or do not appear, are specific to individual languages. But some phonotactic patterns are typologically more common than others. For instance, to various degrees, nearly all languages avoid transvocalic consonants that share a major place of articulation (e.g., /keg/). In this project, we test the idea that such asymmetries in phonotactic patterns emerge during language transmission through the interaction of pressures on learning and communication. Joint work with [Kenny Smith](http://www.lel.ed.ac.uk/~kenny) and [Annie Holtz](https://annieholtz.github.io).
+
+### The role of babytalk words in early language development (ESRC)
+Why do most speech communities have a set of register-specific vocabulary for young children (e.g., *choochoo*, *tummy*, *night-night*)? Why do they share similar phonological characteristics across languages? In this project, [Barbora Skarabela](https://www.ed.ac.uk/profile/barbora-skarabela) and I addressed these questions through a set of experiments and corpus analysis testing the hypothesis that the shape of these 'babytalk words' makes them easier to [segment](https://doi.org/10.1017/S0305000916000660), [learn](https://doi.org/10.1080/15475441.2016.1165100) and [bootstrap lexical development]( https://doi.org/10.1111/cogs.12628).
+
+Here's me talking about the project in a video for the "Before their first word" project.
+
+<iframe width="309" height="200" src="https://www.youtube.com/embed/rxUlpBIhzCI" frameborder="0" allowfullscreen></iframe>
+
+And similarly on [BBC Radio 4](https://www.bbc.co.uk/programmes/b03mfwjz) (my segment from 6m23s).
+
+### Autistic traits and speech processing (British Academy and Autism Speaks)
+This collaboration with [Mary Stewart](https://orcid.org/0000-0002-4365-8916) examined the relationship between autistic traits (including those found in neurotypicals) and speech processing, in particular, [categorical perception ](https://doi.org/10.1007/s10803-017-3284-0) and the effects of lexical information on speech perception in [children](https://doi.org/10.1044/2015_JSLHR-L-14-0061) and [adults](https://doi.org/10.1016/j.cognition.2008.07.010). 
+
+
+### The development of lexical and postlexical pitch phonology (AHRC)
+This project investigated how children learn the pitch components that distinguish lexical contrasts and those that mark intonational differences in languages that show complex interactions of the two, such as Swedish ([production](
+https://doi.org/10.1159/000097307)) and Japanese ([production](https://doi.org/10.1353/cjl.2004.0032) and [recognition](https://doi.org/10.3389/fpsyg.2017.02354)).
+
+### Phonological representations of second language words (British Academy)
+How do we represent the phonological information of words in a second language? More specifically, what happens to sound contrasts that are absent from our native language? To explore this issue, we used a range of methods -- [semantic-relatedness judgment](https://doi.org/10.1016/j.cognition.2008.12.007), [semantic category judgment](3
+https://doi.org/10.1177/0023830910371462), [novel word learning](https://doi.org/10.1177/0267658314534661) -- to measure the extent to which words differentiated by a nonnative contrast (e.g., LOCK and ROCK for Japanese speakers of English) are stored as "near-homophones" in our mental lexicon. In collaboration with [Rob Hartsuiker](https://users.ugent.be/~rhartsui/), [Sarah Haywood](https://www.qmu.ac.uk/schools-and-divisions/otat/otat-staff/dr-sarah-haywood), [Satsuki Nakai](https://www.researchgate.net/profile/Satsuki-Nakai), and [Shane Lindsay](https://www.hull.ac.uk/staff-directory/shane-lindsay).
+
+## Corpora
+These are corpora of naturalistic child-adult interactions, audio-recorded, transcribed in CHAT format, and made available from CHILDES/PhonBank.
+
+- [The Edinburgh Corpus](https://childes.talkbank.org/access/Eng-UK/Edinburgh.html): 47 chidren growing up in Edinburgh, Scotland, recorded at 9, 15 and 21 months of age. Funded by the ESRC and RSE.
+- [The Ota Corpus](https://phon.talkbank.org/access/Japanese/Ota.html): 3 Japanese-learning children recorded approximately twice a month between age 1 and 2.5 
+- [The Falls Church Corpus](https://phon.talkbank.org/access/Biling/FallsChurch.html):
+An English-Japanese bilingual child recorded approximately twice a month over a year beginning at 1 year and 7 months.
